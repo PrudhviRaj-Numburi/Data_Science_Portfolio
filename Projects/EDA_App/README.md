@@ -2,7 +2,7 @@
 
 To acess this app: [Click here](https://dataappsolution.herokuapp.com/)
 
-![alt text](Projects/EDA_App/EDA+exploratory+data+analysis+python.jpg)
+![alt text](EDA+exploratory+data+analysis+python.jpg)
 
 In this project, it was implemented a data science solution app.
 
