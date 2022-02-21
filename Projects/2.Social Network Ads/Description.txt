@@ -1,1 +1,0 @@
-K-Nearest Neighbors - Social Network Ads Dataset: Using K-NN on customers that bought a SUV from a social network ad.

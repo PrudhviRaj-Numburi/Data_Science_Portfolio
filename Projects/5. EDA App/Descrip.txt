@@ -1,1 +1,0 @@
-Data Science App: In this deployed app, you can perform a fast EDA of your classification or regression task to speed up your insights.
