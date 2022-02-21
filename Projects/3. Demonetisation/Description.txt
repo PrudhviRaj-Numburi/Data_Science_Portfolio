@@ -1,0 +1,11 @@
+The Government of India announced the demonetisation of all ₹500 and ₹1000 banknotes.kaggle dataset of tweets during demonetisation is used to analysis sentiments.
+
+Steps-
+
+    1.Importing libraries and data.
+    2.cleaning data.
+    3.Label Each tweet as either positive review or negative.
+    4.Plot sentiment graph.
+    5.Wordcloud of sentiment.
+
+Tools: -BeautifulSoup,plotly,nltk,wordcloud,matplotlib
