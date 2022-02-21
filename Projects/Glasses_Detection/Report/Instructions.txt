@@ -1,0 +1,8 @@
+https://drive.google.com/file/d/1KjrF6LgpYpYPOsAcuisZ-RT1iVCBR--a/view?usp=sharing
+The above link is for Image classification, you have to download the data from above link and add your path in Imageclassification_eyewear.ipynb code file.
+
+https://drive.google.com/file/d/1FfYLVEZXL1XgBGkLUVAagh8DwjgmvmjI/view?usp=sharing
+The above link is for convolutional model trained (.h5) 
+
+https://app.roboflow.com/ds/k9L935fJzH?key=ZE8sztdfKZ
+The above link is for Object Detection, the data set is already given in the code as well no need not to explicitly change as it will directly accessible in the ObjectDetection_eyewear.ipynb code.
