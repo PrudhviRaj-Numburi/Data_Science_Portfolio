@@ -52,7 +52,7 @@ In this project I have used transformers in tensorflow, This Portfolio is a comp
 - <a href="Projects/Image-Recognition-Dog,Cat/Case-Study-Paper/Convolutional_Neural_Networks_Case_Study.pdf"> Case Study Papers</a>
 - <a href="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Image-Recognition-Dog%2CCat"> Github Repo</a>
 - <a href="Projects/Image-Recognition-Dog,Cat/Model/Artificial_Neural_Network_Case_Study.py"> Python Code</a>
-
+<br>
 
 
 <h1 align="center" style="background-color:Tomato;"> Projects in Machine Learning </h1>
@@ -64,9 +64,9 @@ In this project I have used transformers in tensorflow, This Portfolio is a comp
 
 ## [Loan Default Prediction](Projects/Loan-Default-Prediction-master/Loan_Default_Prediction.ipynb)
 
-<img align="left" width="250" height="150" src="Image/2a.jpg">
+<img align="left" width="250" height="150" src="Image/6a.jpeg">
 
-In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default the loan. SMOTE is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
+In this project I have applied various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default the loan. SMOTE is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
 <br>
 - <a href="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Loan-Default-Prediction-master"> Github Repo</a>
 - <a href="Projects/Loan-Default-Prediction-master/Loan_Default_Prediction.ipynb"> Python Code</a>
@@ -74,7 +74,7 @@ In this project I applied various classification models such as Logistic Regress
 
 ## [Social Network Ads](Projects/Loan-Default-Prediction-master/Loan_Default_Prediction.ipynb)
 
-<img align="left" width="250" height="150" src="Image/2a.jpg">
+<img align="left" width="250" height="150" src="Image/7a.jpg">
 
 Using K-NN (K-Nearest Neighbours) on a dataset [Social Network Ads.csv](Projects/Social_Network_Ads/Social_Network_Ads.csv) that tells us if a customer bought an SUV based on a social network ad or not.
 <br>
@@ -85,7 +85,7 @@ Using K-NN (K-Nearest Neighbours) on a dataset [Social Network Ads.csv](Projects
 
 ## [Demonetisation](Projects/Demonetisation/Demonetisation_Sentiment_Analysis.ipynb)
 
-<img align="left" width="250" height="150" src="Image/2a.jpg">
+<img align="left" width="300" height="180" src="Image/8a.jpg">
 
 ### Sentiment Analysis 
 The Government of India announced the demonetisation of all ₹500 and ₹1000 banknotes, using kaggle dataset of [tweets](Projects/Demonetisation/demonetization-tweets.csv) during demonetisation is used to analysis sentiments.
@@ -97,13 +97,14 @@ The Government of India announced the demonetisation of all ₹500 and ₹1000 b
 
 ## [World University Rankings](Projects/World_ranking_Universities/World_University_Ranking_Analaysis_with_Plotly.pdf)
 
-<img align="left" width="250" height="150" src="Image/2a.jpg">
+<img align="left" width="250" height="150" src="Image/9a.jpg">
 
 The whole project is on Plot.ly library
 <br>
 
 - <a href="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/World_ranking_Universities"> Github Repo</a>
 - <a href="Projects/World_ranking_Universities/Plotly_WIDS.ipynb"> Python Code</a>
+<br>
 <br>
 
 <h1 align="center" style="background-color:Tomato;"> Data Science App </h1>
@@ -119,7 +120,8 @@ This app will perform Automatic Data Analysis on any dataset. You have an option
  
 ## Note:
 This solution do not substitute a more deeper analysis of your dataset. Because there is no treatment of the missing values, duplicated values and also problematic information on the columns. The main goal is to give a quicker overview of the contained information inside the dataset. 
-  
+<br> 
+<br>  
 <h1 align="center" style="background-color:Tomato;"> Core Competencies </h1>
 <p align="center">
 </p>
