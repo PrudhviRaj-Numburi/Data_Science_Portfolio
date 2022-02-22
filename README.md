@@ -29,22 +29,23 @@ In this project I have used transformers in tensorflow, This Portfolio is a comp
 - <a href="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Language_Translator"> Github Repo</a>
 - <a href="Projects/Language_Translator/Low_Resource_Language_Translation.ipynb"> Python Code</a>
 
-## Case Study: [Object Detection using CNN, YOLO v5](https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Glasses_Detection/Code)
+## Case Study: [Object Detection using YOLO v5](https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Glasses_Detection/Code)
 
-<img align="left" width="250" height="150" src="Image/2a.jpg">
+<img align="left" width="250" height="200" src="Image/5a.png">
 
 In this project I have used transformers in tensorflow, This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks. It is updated on the regular basis. This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks. It is updated on the regular basis. This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks.
+<br>
+<br>
 - <a href="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Glasses_Detection/Research"> Case Study Papers</a>
 - <a href="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Glasses_Detection"> Github Repo</a>
 - <a href="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Glasses_Detection/Code"> Python Code</a>
 
 ## Case Study: [Image Recognition](Projects/Image-Recognition-Dog,Cat/Model/Artificial_Neural_Network_Case_Study.py)
 
-<img align="left" width="250" height="150" src="Image/2a.jpg">
+<img align="left" width="300" height="200" src="https://miro.medium.com/max/1838/1*oB3S5yHHhvougJkPXuc8og.gif">
 
 **Objective:** To identify the class which an image belongs a Dog image class or a Cat image class.<br><br>
 **Task:** Using 8K images of dogs and cats to train Convolutional Neural Network(CNN) to predict whether the input image is a Dog image or a Cat image.
-<br>
 <br>
 <br>
 
