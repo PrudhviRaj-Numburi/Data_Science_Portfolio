@@ -11,6 +11,11 @@ For a more visually pleasant experience, Please check out my website [PrudhviRaj
 - **LinkedIn**: [Linkedin.com/prudhvirajnumburi](www.linkedin.com/in/prudhvirajnumburi)
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
+<br><br>
 
-## Projects
-
+<h1 align="center" style="background-color:Tomato;"> Case Studies in Deep Learning </h1>
+<p allign="center">
+<img scr="https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/03/AI_Animated.gif?raw=true"
+  alt=""width="400" height="300">
+</p>
+<br><br>
