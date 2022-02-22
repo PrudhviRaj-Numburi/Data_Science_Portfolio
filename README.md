@@ -118,3 +118,11 @@ This app will perform Automatic Data Analysis on any dataset. You have an option
  
 ## Note:
 This solution do not substitute a more deeper analysis of your dataset. Because there is no treatment of the missing values, duplicated values and also problematic information on the columns. The main goal is to give a quicker overview of the contained information inside the dataset. 
+  
+<h1 align="center" style="background-color:Tomato;"> Core Competencies </h1>
+<p align="center">
+</p>
+
+- **Methodologies**: Machine Leaning, Deep Learning, Computer Vision, Data Analysis, Natural Language Processing, Statistics, Time Series Analysis, Data Visualisation A/B Testing, Big Data, SQL
+- **Languages**: Python(Pandas, Numpy, Scipy, Matplotlib, Seaborn, Sckit-learn Tensorflow, Keras, OpenCV), C++, MATLAB, Arduino
+- **Tools**: MySQL, Tableau, Git, AWS(Amazon Web Services), Azure, MS Excel 
