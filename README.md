@@ -124,5 +124,5 @@ This solution do not substitute a more deeper analysis of your dataset. Because 
 </p>
 
 - **Methodologies**: Machine Leaning, Deep Learning, Computer Vision, Data Analysis, Natural Language Processing, Statistics, Time Series Analysis, Data Visualisation A/B Testing, Big Data, SQL
-- **Languages**: Python(Pandas, Numpy, Scipy, Matplotlib, Seaborn, Sckit-learn Tensorflow, Keras, OpenCV), C++, MATLAB, Arduino
+- **Languages**: Python(Pandas, Numpy, Scipy, Matplotlib, Seaborn, Sckit-learn, Tensorflow, Keras, OpenCV), C++, MATLAB, Arduino
 - **Tools**: MySQL, Tableau, Git, AWS(Amazon Web Services), Azure, MS Excel 
