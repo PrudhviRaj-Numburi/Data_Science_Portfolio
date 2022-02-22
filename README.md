@@ -67,7 +67,54 @@ In this project I have used transformers in tensorflow, This Portfolio is a comp
 
 In this project I applied various classification models such as Logistic Regression, Random Forest and LightGBM to detect consumers who will default the loan. SMOTE is used to combat class imbalance and LightGBM is implemented that resulted into the highest accuracy 98.89% and 0.99 F1 Score.
 <br>
+- <a href="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Loan-Default-Prediction-master"> Github Repo</a>
 - <a href="Projects/Loan-Default-Prediction-master/Loan_Default_Prediction.ipynb"> Python Code</a>
 <br>
 
 ## [Social Network Ads](Projects/Loan-Default-Prediction-master/Loan_Default_Prediction.ipynb)
+
+<img align="left" width="250" height="150" src="Image/2a.jpg">
+
+Using K-NN (K-Nearest Neighbours) on a dataset [Social Network Ads.csv](Projects/Social_Network_Ads/Social_Network_Ads.csv) that tells us if a customer bought an SUV based on a social network ad or not.
+<br>
+- <a href="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Social_Network_Ads"> Github Repo</a>
+- <a href="Projects/Loan-Default-Prediction-master/Loan_Default_Prediction.ipynb"> Python Code</a>
+<br>
+
+
+## [Demonetisation](Projects/Demonetisation/Demonetisation_Sentiment_Analysis.ipynb)
+
+<img align="left" width="250" height="150" src="Image/2a.jpg">
+
+### Sentiment Analysis 
+The Government of India announced the demonetisation of all ₹500 and ₹1000 banknotes, using kaggle dataset of [tweets](Projects/Demonetisation/demonetization-tweets.csv) during demonetisation is used to analysis sentiments.
+<br>
+
+- <a href="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Demonetisation"> Github Repo</a>
+- <a href="Projects/Demonetisation/Demonetisation_Sentiment_Analysis.ipynb"> Python Code</a>
+<br>
+
+## [World University Rankings](Projects/World_ranking_Universities/World_University_Ranking_Analaysis_with_Plotly.pdf)
+
+<img align="left" width="250" height="150" src="Image/2a.jpg">
+
+The whole project is on Plot.ly library
+<br>
+
+- <a href="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/World_ranking_Universities"> Github Repo</a>
+- <a href="Projects/World_ranking_Universities/Plotly_WIDS.ipynb"> Python Code</a>
+<br>
+
+<h1 align="center" style="background-color:Tomato;"> Data Science App </h1>
+<p align="center">
+<img align="left" width="250" height="150" src="Image/4a.jpg">
+ 
+To access this app: [Click here](https://dataappsolution.herokuapp.com/)
+<br>
+  
+This app will perform Automatic Data Analysis on any dataset. You have an option to upload your own dataset. Using this app we can perform a fast EDA analysis on any dataset. For trail purpose an example CSV is provided in the app.
+<br>
+<br>
+ 
+## Note:
+This solution do not substitute a more deeper analysis of your dataset. Because there is no treatment of the missing values, duplicated values and also problematic information on the columns. The main goal is to give a quicker overview of the contained information inside the dataset. 
