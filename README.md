@@ -8,7 +8,7 @@ This Portfolio is a compilation of all the Data Science and Data Analysis projec
 For a more visually pleasant experience, Please check out my website [PrudhviRaj.com]()
 
 - **Email**: [prudhviraj.numburi@gmail.com](prudhviraj.numburi@gmail.com)
-- **LinkedIn**: [Linkedin.com/prudhvirajnumburi](www.linkedin.com/in/prudhvirajnumburi)
+- **LinkedIn**: [Linkedin.com/prudhvirajnumburi](https://www.linkedin.com/in/prudhvirajnumburi/)
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 <br><br>
@@ -20,7 +20,7 @@ For a more visually pleasant experience, Please check out my website [PrudhviRaj
 </p>
 <br><br>
 
-## Case Study: [Low resource Language Translation](Projects/Language_Translator/Low_Resource_Language_Translation.ipynb) 
+## Case Study: [Low resource Language Translation](https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Language_Translator) 
 
 <img align="left" width="250" height="150" src="Image/2a.jpg">
 
@@ -29,7 +29,7 @@ In this project I have used transformers in tensorflow, This Portfolio is a comp
 - <a href="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Language_Translator"> Github Repo</a>
 - <a href="Projects/Language_Translator/Low_Resource_Language_Translation.ipynb"> Python Code</a>
 
-## Case Study: [Object Detection using YOLO v5](https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Glasses_Detection/Code)
+## Case Study: [Object Detection using YOLO v5](https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Glasses_Detection)
 
 <img align="left" width="250" height="200" src="Image/5a.png">
 
@@ -40,7 +40,7 @@ In this project I have used transformers in tensorflow, This Portfolio is a comp
 - <a href="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Glasses_Detection"> Github Repo</a>
 - <a href="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Glasses_Detection/Code"> Python Code</a>
 
-## Case Study: [Image Recognition](Projects/Image-Recognition-Dog,Cat/Model/Artificial_Neural_Network_Case_Study.py)
+## Case Study: [Image Recognition](https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Image-Recognition-Dog%2CCat)
 
 <img align="left" width="300" height="200" src="https://miro.medium.com/max/1838/1*oB3S5yHHhvougJkPXuc8og.gif">
 
