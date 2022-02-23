@@ -34,7 +34,7 @@
 ## Case Study 
 This is a Computer Vision Case Study with an Image recognition model that classifies an image to a binary class. Image recognition model based on Convolutional Neural Network (CNN) to identify from an image whether it is dog or a cat image. In this case study we use 8000 images of dogs and cats to train and test a Convolutional Neural Network (CNN) model that takes an image as an input and give as an output a class of 0 (cat) or 1 (dog) suggesting whether it is a dog or a cat picture. This image recognition model is based on CNN. 
 
-The <a href ="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf"> Case Study Paper </a> and <a href ="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Network_Case_Study.py" > Python Code</a> contain the following information<br>
+The <a href ="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/blob/main/Projects/Image-Recognition-Dog%2CCat/Case-Study-Paper/Convolutional_Neural_Networks_Case_Study.pdf"> Case Study Paper </a> and <a href ="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/blob/main/Projects/Image-Recognition-Dog%2CCat/Model/Artificial_Neural_Network_Case_Study.py" > Python Code</a> contain the following information<br>
 
  - Problem statement
  - Data overview
@@ -90,7 +90,7 @@ After compiling the model the CNN model accurately classified the first picture 
 # Methodology
 
 ## Convolutional Neural Networks (CNN)
-This case study is based on CNN model and the <a href="https://github.com/TatevKaren/convolutional-neural-network-image_recognition_case_study/blob/main/Convolutional_Neural_Network_Case_Study-2.pdf">Case Study Paper</a> includes detailed description of all the steps and processes that CNN's include such as:
+This case study is based on CNN model and the <a href="https://www.analyticsvidhya.com/blog/2020/10/what-is-the-convolutional-neural-network-architecture/">blog </a> includes detailed description of all the steps and processes that CNN's include such as:
 - Convolutional Operation
 - Pooling
 - Flattening
@@ -101,7 +101,7 @@ This case study is based on CNN model and the <a href="https://github.com/TatevK
 <br>
 
 ## Model Evaluation
-Important evaluation steps, described in detail in <a href="https://github.com/TatevKaren/computer-vision-case-study/blob/main/Convolutional_Neural_Networks_Case_Study.pdf"> Case Study Paper </a> , that help the CNN model to train and make accurate predictions such as:
+Important evaluation steps, described in detail in <a href="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/blob/main/Projects/Image-Recognition-Dog%2CCat/Case-Study-Paper/Convolutional_Neural_Networks_Case_Study.pdf"> Case Study Paper </a> , that help the CNN model to train and make accurate predictions such as:
 - Loss Functions for CNN (SoftMax and Cross-Entropy)
 - Loss Function Optimizers (SGD and Adam Optimizer)
 - Activation Functions (Rectifier and Sigmoid)
@@ -109,17 +109,17 @@ Important evaluation steps, described in detail in <a href="https://github.com/T
 
 ## Where to find details about DL libraries: Tensorflow & Keras 
 <p>
-    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras ImageDataGenerator Library.png?raw=true"
+    <img src="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/blob/main/Projects/Image-Recognition-Dog%2CCat/Images/Keras%20ImageDataGenerator%20Library.png?raw=true"
   width="500" height="300">
 </p>
 <p>
-    <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras ImageDataGenerator Library2.png?raw=true"
+    <img src="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/blob/main/Projects/Image-Recognition-Dog%2CCat/Images/Keras%20ImageDataGenerator%20Library2.png?raw=true"
   width="500" height="270">
 </p>
 <p>
-   <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras load_img function.png?raw=true"
+   <img src="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/blob/main/Projects/Image-Recognition-Dog%2CCat/Images/Keras%20load_img%20function.png?raw=true"
   width="450" height="80">
-   <img src="https://github.com/TatevKaren/dog_cat_image_recognition_cnn/blob/main/sources/Keras load_to_array function.png?raw=true"
+   <img src="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/blob/main/Projects/Image-Recognition-Dog%2CCat/Images/Keras%20load_to_array%20function.png?raw=true"
   width="450" height="80">
 </p>
 Check out more information <a href = "https://keras.io/api/preprocessing/image/#imagedatagenerator-class"> here</a> 
