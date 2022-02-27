@@ -50,7 +50,7 @@ In this project I have used transformers in tensorflow, This Portfolio is a comp
 <img align="left" width="300" height="200" src="https://miro.medium.com/max/1838/1*oB3S5yHHhvougJkPXuc8og.gif">
 
 **Objective:** To identify the class which an image belongs a Dog image class or a Cat image class.<br><br>
-**Task:** Using 8K images of dogs and cats to train Convolutional Neural Network(CNN) to predict whether the input image is a Dog or a Cat image.<br>
+**Task:** Using 8K images of dogs and cats to train Convolutional Neural Network(CNN) to predict whether the image is a Dog or a Cat image.<br>
 - <a href="Projects/Image-Recognition-Dog,Cat/Case-Study-Paper/Convolutional_Neural_Networks_Case_Study.pdf"> Case Study Papers</a>
 - <a href="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Image-Recognition-Dog%2CCat"> Github Repo</a>
 - <a href="Projects/Image-Recognition-Dog,Cat/Model/Artificial_Neural_Network_Case_Study.py"> Python Code</a>
