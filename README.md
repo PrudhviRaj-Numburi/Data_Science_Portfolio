@@ -5,7 +5,7 @@ Data-Science-Portfolio: Prudhvi Raj
 ============================
 This Portfolio is a compilation of all the Data Science and Data Analysis projects I have done for academic, self learning, and professional purposes. Presented in the form of Jupyter Notebooks. It is updated on the regular basis.
 
-For a more visually pleasant experience, Please check out my website [PrudhviRaj.com]()
+<!-- For a more visually pleasant experience, Please check out my website [PrudhviRaj.com]() -->
 
 - **Email**: [prudhviraj.numburi@gmail.com](prudhviraj.numburi@gmail.com)
 - **LinkedIn**: [Linkedin.com/prudhvirajnumburi](https://www.linkedin.com/in/prudhvirajnumburi/)
