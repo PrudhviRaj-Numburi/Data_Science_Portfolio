@@ -36,7 +36,7 @@ In this project I have used transformers in tensorflow, This Portfolio is a comp
 - **Objective:** To detect whether a person is wearing spectacles or not
 - **Data:** For Image classification, data is extracted from the Kaggle website. Dataset link is given in the description. This data consists of 3060 images which consist of different people wearing eyewear and people without eyewear. This extracted data contains people having eyewear with a count of 1689. Alongside, 1371 images consist of people who are not wearing eyewear. These images that are not wearing eyewear is mixed with other data and used for training the model which makes the model more robust and have better accuracy when the new data comes in. 
 - **Object Detection tool: Yolo v5** The data with eyewear is taken for labelling, As the system needs the labelled data to identify which specific part of the image to be analysed for object detection i.e., eyewear detection in my case. In object detection, for labelling the data I have used Computer Vision Annotation Tool (CVAT). CVAT is an open-source interactive online tool used for annotating images for computer vision algorithms.
-<br>
+- **Note:** For detailed explanation and plots open the Github Repo, the link is given below
 
 - <a href="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Glasses_Detection/Research"> Case Study Papers</a>
 - <a href="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Glasses_Detection"> Github Repo</a>
