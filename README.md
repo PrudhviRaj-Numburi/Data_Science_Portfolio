@@ -22,7 +22,7 @@ It is updated on the regular basis.
 </p>
 <br><br>
 
-## Case Study: [Low resource Language Translation](https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Language_Translator) 
+## Case Study: [Low resource Language Translation using Machine Translation](https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Language_Translator) 
 
 <img align="left" width="250" height="150" src="Image/2a.jpg">
 
