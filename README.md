@@ -17,7 +17,7 @@ It is updated on the regular basis.
 
 <h1 align="center" style="background-color:Tomato;"> Case Studies in Deep Learning </h1>
 <p align="center">
-<img src="https://analyticsinsight.b-cdn.net/wp-content/uploads/2020/03/AI_Animated.gif?raw=true"
+<img src="Image/68747470733a2f2f616e616c7974696373696e73696768742e622d63646e2e6e65742f77702d636f6e74656e742f75706c6f6164732f323032302f30332f41495f416e696d617465642e6769663f7261773d74727565.webp"
   alt=""width="500" height="350">
 </p>
 <br><br>
