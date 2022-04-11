@@ -68,7 +68,7 @@ The entire project will be based on the automatic language technique that is req
 <img align="left" width="250" height="150" src="Image/Get there no Regrets Arrive Alive.JPG">
 
 This Project will use UK Road Safety open source data (2019). The dataset is published by Department of Transports, under Open Government Licence.The data consists of detailed road safety data about the circumstances of personal injury road accidents, the types of vehicles involved and the consequential casualties.
-- **Note:** For detailed explanation and plots open the Github Repo, the link is given below
+- **Note:** For detailed explanation and plots open the Github Repo
 - <a href="https://github.com/PrudhviRaj-Numburi/Data_Science_Portfolio/tree/main/Projects/Road_Safety_UK"> Github Repo</a>
 <br>
 
