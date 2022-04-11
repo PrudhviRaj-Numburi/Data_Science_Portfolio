@@ -29,7 +29,8 @@ And in this analysis I have explored problem from different prospectives, yet le
 ## Plots:
 In this section we will answer questions related to the nature and characteristics
 of accidents:
-<img align="center" width="500" height="350" src="Projects/Road_Safety_UK/Images/index.png">
+
+<img align="center" width="500" height="350" src="Projects/Road_Safety_UK/Images/1.jpg">
 
 </p>
 <br><br>
