@@ -10,7 +10,7 @@ It is updated on the regular basis.
 <!-- For a more visually pleasant experience, Please check out my website [PrudhviRaj.com]() -->
 
 - **Email**: [raj.numburi@gmail.com](raj.numburi@gmail.com)
-- **LinkedIn**: [Linkedin.com/prudhvirajnumburi](https://www.linkedin.com/in/rajnumburi/)
+- **LinkedIn**: [Linkedin.com/rajnumburi](https://www.linkedin.com/in/rajnumburi/)
 
 [![Project Status: Active – The project has reached a stable, usable state and is being actively developed.](http://www.repostatus.org/badges/latest/active.svg)](http://www.repostatus.org/#active)
 <br><br>
