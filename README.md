@@ -1,4 +1,4 @@
-<img src="Image/1c.png" alt="logo" title="logo" align="right" height="100" />
+<img src="Image/1c.png" alt="logo" title="logo" align="right" height="80" />
 </a>
 
 Data-Science-Portfolio: Raj
