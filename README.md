@@ -1,7 +1,6 @@
 <img src="Image/1c.png" alt="logo" title="logo" align="right" height="150" />
 </a>
 </a>
-</a>
 
 
 Data-Science-Portfolio: Raj
