@@ -1,4 +1,4 @@
-<img src="Image/1c.png" alt="logo" title="logo" align="right" height="86" width="100"/>
+<img src="Image/1c.png" alt="logo" title="logo" align="right" height="140" />
 </a>
 </a>
 </a>
