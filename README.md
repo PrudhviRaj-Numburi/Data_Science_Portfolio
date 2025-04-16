@@ -125,7 +125,7 @@ The whole project is on Plot.ly library
 <p align="center">
 <img align="left" width="250" height="150" src="Image/4a.jpg">
  
-To access this app: [Click here](https://dataappsolution.herokuapp.com/)
+To access this app: [Click here](https://ed-analysis-a043a905103a.herokuapp.com/)
 <br>
   
 This app will perform Automatic Data Analysis on any dataset. You have an option to upload your own dataset. Using this app we can perform a fast EDA analysis on any dataset. For trail purpose an example CSV is provided in the app.
